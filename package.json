@@ -4,6 +4,7 @@
   "description": "a localStorage interface for node",
   "main": "dist/src/index.js",
   "types": "types/src/index.d.ts",
+  "author": "JulCzar <julczar21@outlook.com>",
   "license": "MIT",
   "files": [
     "dist",
